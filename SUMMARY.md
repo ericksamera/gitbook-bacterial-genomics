@@ -18,6 +18,7 @@
 ## II. Whole Genome Assembly
 
 * [2.1 :: Introduction](ii.-whole-genome-assembly/2.1-introduction.md)
+* [2.2 :: SPAdes](ii.-whole-genome-assembly/2.2-spades.md)
 
 ## III. Gene Annotation
 
@@ -26,13 +27,22 @@
 ## IV. Phylogenetics
 
 * [4.1 :: Introduction](iv.-phylogenetics/4.1-introduction.md)
+* [4.2 :: The 16S rRNA Gene](iv.-phylogenetics/4.2-the-16s-rrna-gene.md)
+* [4.3 :: Multi-locus Sequence Typing (MLST)](iv.-phylogenetics/4.3-multi-locus-sequence-typing-mlst.md)
 
 ## V. Metagenomics
 
 * [5.1 :: Introduction](v.-metagenomics/5.1-introduction.md)
 * [5.2 :: Measures of Microbial Diversity](v.-metagenomics/5.2-measures-of-microbial-diversity.md)
-* [5.3 :: Introduction to Bioinformatics Pipelines](v.-metagenomics/5.3-introduction-to-bioinformatics-pipelines.md)
+* [5.3 :: Introduction to Bioinformatics Pipelines](v.-metagenomics/5.3-introduction-to-bioinformatics-pipelines/README.md)
+  * [5.3.1 :: Taxonomic Classification](v.-metagenomics/5.3-introduction-to-bioinformatics-pipelines/5.3.1-taxonomic-classification.md)
+* [5.4 :: Functional Analysis](v.-metagenomics/5.4-functional-analysis.md)
+* [5.5 :: Metagenomes](v.-metagenomics/5.5-metagenomes.md)
 
 ## VI. Antimicrobial Resistance
 
 * [6.1 :: Introduction](vi.-antimicrobial-resistance/6.1-introduction.md)
+
+***
+
+* [Introduction to Applied Bioinformatics](https://erick-samera.gitbook.io/introduction-to-applied-bioinformatics/)

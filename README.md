@@ -18,3 +18,6 @@ layout:
 
 # Home
 
+{% hint style="info" %}
+Most of my work at the AGC has been focused on microbial genomics and so I've built this workbook to be focused on worked examples of some more advanced bioinformatics.
+{% endhint %}
